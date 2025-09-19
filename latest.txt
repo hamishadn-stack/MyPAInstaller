@@ -1,2 +1,2 @@
-version=1.0.5.0
-url=https://raw.githubusercontent.com/hamishadn-stack/MyPAInstaller/d9588655fda3cc7099a02e467fd2045a6d7bb795/MyPAInstaller.msi
+version=1.0.7.0
+url=https://raw.githubusercontent.com/hamishadn-stack/MyPAInstaller/refs/heads/main/MyPAInstaller.msi
