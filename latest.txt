@@ -1,2 +1,2 @@
-version=1.0.42.0
+version=1.0.43.0
 url=https://raw.githubusercontent.com/hamishadn-stack/MyPAInstaller/refs/heads/main/MyPAInstaller.msi
